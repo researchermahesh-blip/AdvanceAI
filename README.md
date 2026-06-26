@@ -1,5 +1,8 @@
 # AdvancedAI
-
+# This Project Showcases the use of regression machine learning models.
+# The available ML models (regression) are applied on Walmart data set
+# The models are evaluated
+# The best models for this dataset was highlighted
 ## Overview
 This repository contains my Data Science / AI project implementations for portfolio and learning purposes.
 
