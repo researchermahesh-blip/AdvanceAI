@@ -1,6 +1,26 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-venv/
+# Python virtual environment
 .venv/
-.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CatBoost generated files
+catboost_info/
+
+# TensorBoard logs (optional)
+runs/
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
